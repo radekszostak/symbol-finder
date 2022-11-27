@@ -1,3 +1,1028 @@
+°,degree sign
+⌀,diameter sign
+⌁,electric arrow
+⌂,house
+⌃,up arrowhead
+⌄,down arrowhead
+⌅,projective
+⌆,perspective
+⌇,wavy line
+⌈,left ceiling
+⌉,right ceiling
+⌊,left floor
+⌋,right floor
+⌌,bottom right crop
+⌍,bottom left crop
+⌎,top right crop
+⌏,top left crop
+⌐,reversed not sign
+⌑,square lozenge
+⌒,arc
+⌓,segment
+⌔,sector
+⌕,telephone recorder
+⌖,position indicator
+⌗,viewdata square
+⌘,place of interest sign
+⌙,turned not sign
+⌚,watch
+⌛,hourglass
+⌜,top left corner
+⌝,top right corner
+⌞,bottom left corner
+⌟,bottom right corner
+⌠,top half integral
+⌡,bottom half integral
+⌢,frown
+⌣,smile
+⌤,up arrowhead between two horizontal bars
+⌥,option key
+⌦,erase to the right
+⌧,x in a rectangle box
+⌨,keyboard
+〈,left-pointing angle bracket
+〉,right-pointing angle bracket
+⌫,erase to the left
+⌬,benzene ring
+⌭,cylindricity
+⌮,all around-profile
+⌯,symmetry
+⌰,total runout
+⌱,dimension origin
+⌲,conical taper
+⌳,slope
+⌴,counterbore
+⌵,countersink
+⌶,apl functional symbol i-beam
+⌷,apl functional symbol squish quad
+⌸,apl functional symbol quad equal
+⌹,apl functional symbol quad divide
+⌺,apl functional symbol quad diamond
+⌻,apl functional symbol quad jot
+⌼,apl functional symbol quad circle
+⌽,apl functional symbol circle stile
+⌾,apl functional symbol circle jot
+⌿,apl functional symbol slash bar
+⍀,apl functional symbol backslash bar
+⍁,apl functional symbol quad slash
+⍂,apl functional symbol quad backslash
+⍃,apl functional symbol quad less-than
+⍄,apl functional symbol quad greater-than
+⍅,apl functional symbol leftwards vane
+⍆,apl functional symbol rightwards vane
+⍇,apl functional symbol quad leftwards arrow
+⍈,apl functional symbol quad rightwards arrow
+⍉,apl functional symbol circle backslash
+⍊,apl functional symbol down tack underbar
+⍋,apl functional symbol delta stile
+⍌,apl functional symbol quad down caret
+⍍,apl functional symbol quad delta
+⍎,apl functional symbol down tack jot
+⍏,apl functional symbol upwards vane
+⍐,apl functional symbol quad upwards arrow
+⍑,apl functional symbol up tack overbar
+⍒,apl functional symbol del stile
+⍓,apl functional symbol quad up caret
+⍔,apl functional symbol quad del
+⍕,apl functional symbol up tack jot
+⍖,apl functional symbol downwards vane
+⍗,apl functional symbol quad downwards arrow
+⍘,apl functional symbol quote underbar
+⍙,apl functional symbol delta underbar
+⍚,apl functional symbol diamond underbar
+⍛,apl functional symbol jot underbar
+⍜,apl functional symbol circle underbar
+⍝,apl functional symbol up shoe jot
+⍞,apl functional symbol quote quad
+⍟,apl functional symbol circle star
+⍠,apl functional symbol quad colon
+⍡,apl functional symbol up tack diaeresis
+⍢,apl functional symbol del diaeresis
+⍣,apl functional symbol star diaeresis
+⍤,apl functional symbol jot diaeresis
+⍥,apl functional symbol circle diaeresis
+⍦,apl functional symbol down shoe stile
+⍧,apl functional symbol left shoe stile
+⍨,apl functional symbol tilde diaeresis
+⍩,apl functional symbol greater-than diaeresis
+⍪,apl functional symbol comma bar
+⍫,apl functional symbol del tilde
+⍬,apl functional symbol zilde
+⍭,apl functional symbol stile tilde
+⍮,apl functional symbol semicolon underbar
+⍯,apl functional symbol quad not equal
+⍰,apl functional symbol quad question
+⍱,apl functional symbol down caret tilde
+⍲,apl functional symbol up caret tilde
+⍳,apl functional symbol iota
+⍴,apl functional symbol rho
+⍵,apl functional symbol omega
+⍶,apl functional symbol alpha underbar
+⍷,apl functional symbol epsilon underbar
+⍸,apl functional symbol iota underbar
+⍹,apl functional symbol omega underbar
+⍺,apl functional symbol alpha
+⍻,not check mark
+⍼,right angle with downwards zigzag arrow
+⍽,shouldered open box
+⍾,bell symbol
+⍿,vertical line with middle dot
+⎀,insertion symbol
+⎁,continuous underline symbol
+⎂,discontinuous underline symbol
+⎃,emphasis symbol
+⎄,composition symbol
+⎅,white square with centre vertical line
+⎆,enter symbol
+⎇,alternative key symbol
+⎈,helm symbol
+⎉,circled horizontal bar with notch
+⎊,circled triangle down
+⎋,broken circle with northwest arrow
+⎌,undo symbol
+⎍,monostable symbol
+⎎,hysteresis symbol
+⎏,open-circuit-output h-type symbol
+⎐,open-circuit-output l-type symbol
+⎑,passive-pull-down-output symbol
+⎒,passive-pull-up-output symbol
+⎓,direct current symbol form two
+⎔,software-function symbol
+⎕,apl functional symbol quad
+⎖,decimal separator key symbol
+⎗,previous page
+⎘,next page
+⎙,print screen symbol
+⎚,clear screen symbol
+⎛,left parenthesis upper hook
+⎜,left parenthesis extension
+⎝,left parenthesis lower hook
+⎞,right parenthesis upper hook
+⎟,right parenthesis extension
+⎠,right parenthesis lower hook
+⎡,left square bracket upper corner
+⎢,left square bracket extension
+⎣,left square bracket lower corner
+⎤,right square bracket upper corner
+⎥,right square bracket extension
+⎦,right square bracket lower corner
+⎧,left curly bracket upper hook
+⎨,left curly bracket middle piece
+⎩,left curly bracket lower hook
+⎪,curly bracket extension
+⎫,right curly bracket upper hook
+⎬,right curly bracket middle piece
+⎭,right curly bracket lower hook
+⎮,integral extension
+⎯,horizontal line extension
+⎰,upper left or lower right curly bracket section
+⎱,upper right or lower left curly bracket section
+⎲,summation top
+⎳,summation bottom
+⎴,top square bracket
+⎵,bottom square bracket
+⎶,bottom square bracket over top square bracket
+⎷,radical symbol bottom
+⎸,left vertical box line
+⎹,right vertical box line
+⎺,horizontal scan line-1
+⎻,horizontal scan line-3
+⎼,horizontal scan line-7
+⎽,horizontal scan line-9
+⎾,dentistry symbol light vertical and top right
+⎿,dentistry symbol light vertical and bottom right
+⏀,dentistry symbol light vertical with circle
+⏁,dentistry symbol light down and horizontal with circle
+⏂,dentistry symbol light up and horizontal with circle
+⏃,dentistry symbol light vertical with triangle
+⏄,dentistry symbol light down and horizontal with triangle
+⏅,dentistry symbol light up and horizontal with triangle
+⏆,dentistry symbol light vertical and wave
+⏇,dentistry symbol light down and horizontal with wave
+⏈,dentistry symbol light up and horizontal with wave
+⏉,dentistry symbol light down and horizontal
+⏊,dentistry symbol light up and horizontal
+⏋,dentistry symbol light vertical and top left
+⏌,dentistry symbol light vertical and bottom left
+⏍,square foot
+⏎,return symbol
+⏏,eject symbol
+⏐,vertical line extension
+⏑,metrical breve
+⏒,metrical long over short
+⏓,metrical short over long
+⏔,metrical long over two shorts
+⏕,metrical two shorts over long
+⏖,metrical two shorts joined
+⏗,metrical triseme
+⏘,metrical tetraseme
+⏙,metrical pentaseme
+⏚,earth ground
+⏛,fuse
+⏜,top parenthesis
+⏝,bottom parenthesis
+⏞,top curly bracket
+⏟,bottom curly bracket
+⏠,top tortoise shell bracket
+⏡,bottom tortoise shell bracket
+⏢,white trapezium
+⏣,benzene ring with circle
+⏤,straightness
+⏥,flatness
+⏦,ac current
+⏧,electrical intersection
+⏨,decimal exponent symbol
+⏩,black right-pointing double triangle
+⏪,black left-pointing double triangle
+⏫,black up-pointing double triangle
+⏬,black down-pointing double triangle
+⏭,black right-pointing double triangle with vertical bar
+⏮,black left-pointing double triangle with vertical bar
+⏯,black right-pointing triangle with double vertical bar
+⏰,alarm clock
+⏱,stopwatch
+⏲,timer clock
+⏳,hourglass with flowing sand
+⏴,black medium left-pointing triangle
+⏵,black medium right-pointing triangle
+⏶,black medium up-pointing triangle
+⏷,black medium down-pointing triangle
+⏸,double vertical bar
+⏹,black square for stop
+⏺,black circle for record
+⏻,power symbol
+⏼,power on-off symbol
+⏽,power on symbol
+⏾,power sleep symbol
+⏿,observer eye symbol
+␀,symbol for null
+␁,symbol for start of heading
+␂,symbol for start of text
+␃,symbol for end of text
+␄,symbol for end of transmission
+␅,symbol for enquiry
+␆,symbol for acknowledge
+␇,symbol for bell
+␈,symbol for backspace
+␉,symbol for horizontal tabulation
+␊,symbol for line feed
+␋,symbol for vertical tabulation
+␌,symbol for form feed
+␍,symbol for carriage return
+␎,symbol for shift out
+␏,symbol for shift in
+␐,symbol for data link escape
+␑,symbol for device control one
+␒,symbol for device control two
+␓,symbol for device control three
+␔,symbol for device control four
+␕,symbol for negative acknowledge
+␖,symbol for synchronous idle
+␗,symbol for end of transmission block
+␘,symbol for cancel
+␙,symbol for end of medium
+␚,symbol for substitute
+␛,symbol for escape
+␜,symbol for file separator
+␝,symbol for group separator
+␞,symbol for record separator
+␟,symbol for unit separator
+␠,symbol for space
+␡,symbol for delete
+␢,blank symbol
+␣,open box
+␤,symbol for newline
+␥,symbol for delete form two
+␦,symbol for substitute form two
+␧,
+␨,
+␩,
+␪,
+␫,
+␬,
+␭,
+␮,
+␯,
+␰,
+␱,
+␲,
+␳,
+␴,
+␵,
+␶,
+␷,
+␸,
+␹,
+␺,
+␻,
+␼,
+␽,
+␾,
+␿,
+⑀,ocr hook
+⑁,ocr chair
+⑂,ocr fork
+⑃,ocr inverted fork
+⑄,ocr belt buckle
+⑅,ocr bow tie
+⑆,ocr branch bank identification
+⑇,ocr amount of check
+⑈,ocr dash
+⑉,ocr customer account number
+⑊,ocr double backslash
+⑋,
+⑌,
+⑍,
+⑎,
+⑏,
+⑐,
+⑑,
+⑒,
+⑓,
+⑔,
+⑕,
+⑖,
+⑗,
+⑘,
+⑙,
+⑚,
+⑛,
+⑜,
+⑝,
+⑞,
+⑟,
+①,circled digit one
+②,circled digit two
+③,circled digit three
+④,circled digit four
+⑤,circled digit five
+⑥,circled digit six
+⑦,circled digit seven
+⑧,circled digit eight
+⑨,circled digit nine
+⑩,circled number ten
+⑪,circled number eleven
+⑫,circled number twelve
+⑬,circled number thirteen
+⑭,circled number fourteen
+⑮,circled number fifteen
+⑯,circled number sixteen
+⑰,circled number seventeen
+⑱,circled number eighteen
+⑲,circled number nineteen
+⑳,circled number twenty
+⑴,parenthesized digit one
+⑵,parenthesized digit two
+⑶,parenthesized digit three
+⑷,parenthesized digit four
+⑸,parenthesized digit five
+⑹,parenthesized digit six
+⑺,parenthesized digit seven
+⑻,parenthesized digit eight
+⑼,parenthesized digit nine
+⑽,parenthesized number ten
+⑾,parenthesized number eleven
+⑿,parenthesized number twelve
+⒀,parenthesized number thirteen
+⒁,parenthesized number fourteen
+⒂,parenthesized number fifteen
+⒃,parenthesized number sixteen
+⒄,parenthesized number seventeen
+⒅,parenthesized number eighteen
+⒆,parenthesized number nineteen
+⒇,parenthesized number twenty
+⒈,digit one full stop
+⒉,digit two full stop
+⒊,digit three full stop
+⒋,digit four full stop
+⒌,digit five full stop
+⒍,digit six full stop
+⒎,digit seven full stop
+⒏,digit eight full stop
+⒐,digit nine full stop
+⒑,number ten full stop
+⒒,number eleven full stop
+⒓,number twelve full stop
+⒔,number thirteen full stop
+⒕,number fourteen full stop
+⒖,number fifteen full stop
+⒗,number sixteen full stop
+⒘,number seventeen full stop
+⒙,number eighteen full stop
+⒚,number nineteen full stop
+⒛,number twenty full stop
+⒜,parenthesized latin small letter a
+⒝,parenthesized latin small letter b
+⒞,parenthesized latin small letter c
+⒟,parenthesized latin small letter d
+⒠,parenthesized latin small letter e
+⒡,parenthesized latin small letter f
+⒢,parenthesized latin small letter g
+⒣,parenthesized latin small letter h
+⒤,parenthesized latin small letter i
+⒥,parenthesized latin small letter j
+⒦,parenthesized latin small letter k
+⒧,parenthesized latin small letter l
+⒨,parenthesized latin small letter m
+⒩,parenthesized latin small letter n
+⒪,parenthesized latin small letter o
+⒫,parenthesized latin small letter p
+⒬,parenthesized latin small letter q
+⒭,parenthesized latin small letter r
+⒮,parenthesized latin small letter s
+⒯,parenthesized latin small letter t
+⒰,parenthesized latin small letter u
+⒱,parenthesized latin small letter v
+⒲,parenthesized latin small letter w
+⒳,parenthesized latin small letter x
+⒴,parenthesized latin small letter y
+⒵,parenthesized latin small letter z
+Ⓐ,circled latin capital letter a
+Ⓑ,circled latin capital letter b
+Ⓒ,circled latin capital letter c
+Ⓓ,circled latin capital letter d
+Ⓔ,circled latin capital letter e
+Ⓕ,circled latin capital letter f
+Ⓖ,circled latin capital letter g
+Ⓗ,circled latin capital letter h
+Ⓘ,circled latin capital letter i
+Ⓙ,circled latin capital letter j
+Ⓚ,circled latin capital letter k
+Ⓛ,circled latin capital letter l
+Ⓜ,circled latin capital letter m
+Ⓝ,circled latin capital letter n
+Ⓞ,circled latin capital letter o
+Ⓟ,circled latin capital letter p
+Ⓠ,circled latin capital letter q
+Ⓡ,circled latin capital letter r
+Ⓢ,circled latin capital letter s
+Ⓣ,circled latin capital letter t
+Ⓤ,circled latin capital letter u
+Ⓥ,circled latin capital letter v
+Ⓦ,circled latin capital letter w
+Ⓧ,circled latin capital letter x
+Ⓨ,circled latin capital letter y
+Ⓩ,circled latin capital letter z
+ⓐ,circled latin small letter a
+ⓑ,circled latin small letter b
+ⓒ,circled latin small letter c
+ⓓ,circled latin small letter d
+ⓔ,circled latin small letter e
+ⓕ,circled latin small letter f
+ⓖ,circled latin small letter g
+ⓗ,circled latin small letter h
+ⓘ,circled latin small letter i
+ⓙ,circled latin small letter j
+ⓚ,circled latin small letter k
+ⓛ,circled latin small letter l
+ⓜ,circled latin small letter m
+ⓝ,circled latin small letter n
+ⓞ,circled latin small letter o
+ⓟ,circled latin small letter p
+ⓠ,circled latin small letter q
+ⓡ,circled latin small letter r
+ⓢ,circled latin small letter s
+ⓣ,circled latin small letter t
+ⓤ,circled latin small letter u
+ⓥ,circled latin small letter v
+ⓦ,circled latin small letter w
+ⓧ,circled latin small letter x
+ⓨ,circled latin small letter y
+ⓩ,circled latin small letter z
+⓪,circled digit zero
+⓫,negative circled number eleven
+⓬,negative circled number twelve
+⓭,negative circled number thirteen
+⓮,negative circled number fourteen
+⓯,negative circled number fifteen
+⓰,negative circled number sixteen
+⓱,negative circled number seventeen
+⓲,negative circled number eighteen
+⓳,negative circled number nineteen
+⓴,negative circled number twenty
+⓵,double circled digit one
+⓶,double circled digit two
+⓷,double circled digit three
+⓸,double circled digit four
+⓹,double circled digit five
+⓺,double circled digit six
+⓻,double circled digit seven
+⓼,double circled digit eight
+⓽,double circled digit nine
+⓾,double circled number ten
+⓿,negative circled digit zero
+─,box drawings light horizontal
+━,box drawings heavy horizontal
+│,box drawings light vertical
+┃,box drawings heavy vertical
+┄,box drawings light triple dash horizontal
+┅,box drawings heavy triple dash horizontal
+┆,box drawings light triple dash vertical
+┇,box drawings heavy triple dash vertical
+┈,box drawings light quadruple dash horizontal
+┉,box drawings heavy quadruple dash horizontal
+┊,box drawings light quadruple dash vertical
+┋,box drawings heavy quadruple dash vertical
+┌,box drawings light down and right
+┍,box drawings down light and right heavy
+┎,box drawings down heavy and right light
+┏,box drawings heavy down and right
+┐,box drawings light down and left
+┑,box drawings down light and left heavy
+┒,box drawings down heavy and left light
+┓,box drawings heavy down and left
+└,box drawings light up and right
+┕,box drawings up light and right heavy
+┖,box drawings up heavy and right light
+┗,box drawings heavy up and right
+┘,box drawings light up and left
+┙,box drawings up light and left heavy
+┚,box drawings up heavy and left light
+┛,box drawings heavy up and left
+├,box drawings light vertical and right
+┝,box drawings vertical light and right heavy
+┞,box drawings up heavy and right down light
+┟,box drawings down heavy and right up light
+┠,box drawings vertical heavy and right light
+┡,box drawings down light and right up heavy
+┢,box drawings up light and right down heavy
+┣,box drawings heavy vertical and right
+┤,box drawings light vertical and left
+┥,box drawings vertical light and left heavy
+┦,box drawings up heavy and left down light
+┧,box drawings down heavy and left up light
+┨,box drawings vertical heavy and left light
+┩,box drawings down light and left up heavy
+┪,box drawings up light and left down heavy
+┫,box drawings heavy vertical and left
+┬,box drawings light down and horizontal
+┭,box drawings left heavy and right down light
+┮,box drawings right heavy and left down light
+┯,box drawings down light and horizontal heavy
+┰,box drawings down heavy and horizontal light
+┱,box drawings right light and left down heavy
+┲,box drawings left light and right down heavy
+┳,box drawings heavy down and horizontal
+┴,box drawings light up and horizontal
+┵,box drawings left heavy and right up light
+┶,box drawings right heavy and left up light
+┷,box drawings up light and horizontal heavy
+┸,box drawings up heavy and horizontal light
+┹,box drawings right light and left up heavy
+┺,box drawings left light and right up heavy
+┻,box drawings heavy up and horizontal
+┼,box drawings light vertical and horizontal
+┽,box drawings left heavy and right vertical light
+┾,box drawings right heavy and left vertical light
+┿,box drawings vertical light and horizontal heavy
+╀,box drawings up heavy and down horizontal light
+╁,box drawings down heavy and up horizontal light
+╂,box drawings vertical heavy and horizontal light
+╃,box drawings left up heavy and right down light
+╄,box drawings right up heavy and left down light
+╅,box drawings left down heavy and right up light
+╆,box drawings right down heavy and left up light
+╇,box drawings down light and up horizontal heavy
+╈,box drawings up light and down horizontal heavy
+╉,box drawings right light and left vertical heavy
+╊,box drawings left light and right vertical heavy
+╋,box drawings heavy vertical and horizontal
+╌,box drawings light double dash horizontal
+╍,box drawings heavy double dash horizontal
+╎,box drawings light double dash vertical
+╏,box drawings heavy double dash vertical
+═,box drawings double horizontal
+║,box drawings double vertical
+╒,box drawings down single and right double
+╓,box drawings down double and right single
+╔,box drawings double down and right
+╕,box drawings down single and left double
+╖,box drawings down double and left single
+╗,box drawings double down and left
+╘,box drawings up single and right double
+╙,box drawings up double and right single
+╚,box drawings double up and right
+╛,box drawings up single and left double
+╜,box drawings up double and left single
+╝,box drawings double up and left
+╞,box drawings vertical single and right double
+╟,box drawings vertical double and right single
+╠,box drawings double vertical and right
+╡,box drawings vertical single and left double
+╢,box drawings vertical double and left single
+╣,box drawings double vertical and left
+╤,box drawings down single and horizontal double
+╥,box drawings down double and horizontal single
+╦,box drawings double down and horizontal
+╧,box drawings up single and horizontal double
+╨,box drawings up double and horizontal single
+╩,box drawings double up and horizontal
+╪,box drawings vertical single and horizontal double
+╫,box drawings vertical double and horizontal single
+╬,box drawings double vertical and horizontal
+╭,box drawings light arc down and right
+╮,box drawings light arc down and left
+╯,box drawings light arc up and left
+╰,box drawings light arc up and right
+╱,box drawings light diagonal upper right to lower left
+╲,box drawings light diagonal upper left to lower right
+╳,box drawings light diagonal cross
+╴,box drawings light left
+╵,box drawings light up
+╶,box drawings light right
+╷,box drawings light down
+╸,box drawings heavy left
+╹,box drawings heavy up
+╺,box drawings heavy right
+╻,box drawings heavy down
+╼,box drawings light left and heavy right
+╽,box drawings light up and heavy down
+╾,box drawings heavy left and light right
+╿,box drawings heavy up and light down
+▀,upper half block
+▁,lower one eighth block
+▂,lower one quarter block
+▃,lower three eighths block
+▄,lower half block
+▅,lower five eighths block
+▆,lower three quarters block
+▇,lower seven eighths block
+█,full block
+▉,left seven eighths block
+▊,left three quarters block
+▋,left five eighths block
+▌,left half block
+▍,left three eighths block
+▎,left one quarter block
+▏,left one eighth block
+▐,right half block
+░,light shade
+▒,medium shade
+▓,dark shade
+▔,upper one eighth block
+▕,right one eighth block
+▖,quadrant lower left
+▗,quadrant lower right
+▘,quadrant upper left
+▙,quadrant upper left and lower left and lower right
+▚,quadrant upper left and lower right
+▛,quadrant upper left and upper right and lower left
+▜,quadrant upper left and upper right and lower right
+▝,quadrant upper right
+▞,quadrant upper right and lower left
+▟,quadrant upper right and lower left and lower right
+■,black square
+□,white square
+▢,white square with rounded corners
+▣,white square containing black small square
+▤,square with horizontal fill
+▥,square with vertical fill
+▦,square with orthogonal crosshatch fill
+▧,square with upper left to lower right fill
+▨,square with upper right to lower left fill
+▩,square with diagonal crosshatch fill
+▪,black small square
+▫,white small square
+▬,black rectangle
+▭,white rectangle
+▮,black vertical rectangle
+▯,white vertical rectangle
+▰,black parallelogram
+▱,white parallelogram
+▲,black up-pointing triangle
+△,white up-pointing triangle
+▴,black up-pointing small triangle
+▵,white up-pointing small triangle
+▶,black right-pointing triangle
+▷,white right-pointing triangle
+▸,black right-pointing small triangle
+▹,white right-pointing small triangle
+►,black right-pointing pointer
+▻,white right-pointing pointer
+▼,black down-pointing triangle
+▽,white down-pointing triangle
+▾,black down-pointing small triangle
+▿,white down-pointing small triangle
+◀,black left-pointing triangle
+◁,white left-pointing triangle
+◂,black left-pointing small triangle
+◃,white left-pointing small triangle
+◄,black left-pointing pointer
+◅,white left-pointing pointer
+◆,black diamond
+◇,white diamond
+◈,white diamond containing black small diamond
+◉,fisheye
+◊,lozenge
+○,white circle
+◌,dotted circle
+◍,circle with vertical fill
+◎,bullseye
+●,black circle
+◐,circle with left half black
+◑,circle with right half black
+◒,circle with lower half black
+◓,circle with upper half black
+◔,circle with upper right quadrant black
+◕,circle with all but upper left quadrant black
+◖,left half black circle
+◗,right half black circle
+◘,inverse bullet
+◙,inverse white circle
+◚,upper half inverse white circle
+◛,lower half inverse white circle
+◜,upper left quadrant circular arc
+◝,upper right quadrant circular arc
+◞,lower right quadrant circular arc
+◟,lower left quadrant circular arc
+◠,upper half circle
+◡,lower half circle
+◢,black lower right triangle
+◣,black lower left triangle
+◤,black upper left triangle
+◥,black upper right triangle
+◦,white bullet
+◧,square with left half black
+◨,square with right half black
+◩,square with upper left diagonal half black
+◪,square with lower right diagonal half black
+◫,white square with vertical bisecting line
+◬,white up-pointing triangle with dot
+◭,up-pointing triangle with left half black
+◮,up-pointing triangle with right half black
+◯,large circle
+◰,white square with upper left quadrant
+◱,white square with lower left quadrant
+◲,white square with lower right quadrant
+◳,white square with upper right quadrant
+◴,white circle with upper left quadrant
+◵,white circle with lower left quadrant
+◶,white circle with lower right quadrant
+◷,white circle with upper right quadrant
+◸,upper left triangle
+◹,upper right triangle
+◺,lower left triangle
+◻,white medium square
+◼,black medium square
+◽,white medium small square
+◾,black medium small square
+◿,lower right triangle
+☀,black sun with rays
+☁,cloud
+☂,umbrella
+☃,snowman
+☄,comet
+★,black star
+☆,white star
+☇,lightning
+☈,thunderstorm
+☉,sun
+☊,ascending node
+☋,descending node
+☌,conjunction
+☍,opposition
+☎,black telephone
+☏,white telephone
+☐,ballot box
+☑,ballot box with check
+☒,ballot box with x
+☓,saltire
+☔,umbrella with rain drops
+☕,hot beverage
+☖,white shogi piece
+☗,black shogi piece
+☘,shamrock
+☙,reversed rotated floral heart bullet
+☚,black left pointing index
+☛,black right pointing index
+☜,white left pointing index
+☝,white up pointing index
+☞,white right pointing index
+☟,white down pointing index
+☠,skull and crossbones
+☡,caution sign
+☢,radioactive sign
+☣,biohazard sign
+☤,caduceus
+☥,ankh
+☦,orthodox cross
+☧,chi rho
+☨,cross of lorraine
+☩,cross of jerusalem
+☪,star and crescent
+☫,farsi symbol
+☬,adi shakti
+☭,hammer and sickle
+☮,peace symbol
+☯,yin yang
+☰,trigram for heaven
+☱,trigram for lake
+☲,trigram for fire
+☳,trigram for thunder
+☴,trigram for wind
+☵,trigram for water
+☶,trigram for mountain
+☷,trigram for earth
+☸,wheel of dharma
+☹,white frowning face
+☺,white smiling face
+☻,black smiling face
+☼,white sun with rays
+☽,first quarter moon
+☾,last quarter moon
+☿,mercury
+♀,female sign
+♁,earth
+♂,male sign
+♃,jupiter
+♄,saturn
+♅,uranus
+♆,neptune
+♇,pluto
+♈,aries
+♉,taurus
+♊,gemini
+♋,cancer
+♌,leo
+♍,virgo
+♎,libra
+♏,scorpius
+♐,sagittarius
+♑,capricorn
+♒,aquarius
+♓,pisces
+♔,white chess king
+♕,white chess queen
+♖,white chess rook
+♗,white chess bishop
+♘,white chess knight
+♙,white chess pawn
+♚,black chess king
+♛,black chess queen
+♜,black chess rook
+♝,black chess bishop
+♞,black chess knight
+♟,black chess pawn
+♠,black spade suit
+♡,white heart suit
+♢,white diamond suit
+♣,black club suit
+♤,white spade suit
+♥,black heart suit
+♦,black diamond suit
+♧,white club suit
+♨,hot springs
+♩,quarter note
+♪,eighth note
+♫,beamed eighth notes
+♬,beamed sixteenth notes
+♭,music flat sign
+♮,music natural sign
+♯,music sharp sign
+♰,west syriac cross
+♱,east syriac cross
+♲,universal recycling symbol
+♳,recycling symbol for type-1 plastics
+♴,recycling symbol for type-2 plastics
+♵,recycling symbol for type-3 plastics
+♶,recycling symbol for type-4 plastics
+♷,recycling symbol for type-5 plastics
+♸,recycling symbol for type-6 plastics
+♹,recycling symbol for type-7 plastics
+♺,recycling symbol for generic materials
+♻,black universal recycling symbol
+♼,recycled paper symbol
+♽,partially-recycled paper symbol
+♾,permanent paper sign
+♿,wheelchair symbol
+⚀,die face-1
+⚁,die face-2
+⚂,die face-3
+⚃,die face-4
+⚄,die face-5
+⚅,die face-6
+⚆,white circle with dot right
+⚇,white circle with two dots
+⚈,black circle with white dot right
+⚉,black circle with two white dots
+⚊,monogram for yang
+⚋,monogram for yin
+⚌,digram for greater yang
+⚍,digram for lesser yin
+⚎,digram for lesser yang
+⚏,digram for greater yin
+⚐,white flag
+⚑,black flag
+⚒,hammer and pick
+⚓,anchor
+⚔,crossed swords
+⚕,staff of aesculapius
+⚖,scales
+⚗,alembic
+⚘,flower
+⚙,gear
+⚚,staff of hermes
+⚛,atom symbol
+⚜,fleur-de-lis
+⚝,outlined white star
+⚞,three lines converging right
+⚟,three lines converging left
+⚠,warning sign
+⚡,high voltage sign
+⚢,doubled female sign
+⚣,doubled male sign
+⚤,interlocked female and male sign
+⚥,male and female sign
+⚦,male with stroke sign
+⚧,male with stroke and male and female sign
+⚨,vertical male with stroke sign
+⚩,horizontal male with stroke sign
+⚪,medium white circle
+⚫,medium black circle
+⚬,medium small white circle
+⚭,marriage symbol
+⚮,divorce symbol
+⚯,unmarried partnership symbol
+⚰,coffin
+⚱,funeral urn
+⚲,neuter
+⚳,ceres
+⚴,pallas
+⚵,juno
+⚶,vesta
+⚷,chiron
+⚸,black moon lilith
+⚹,sextile
+⚺,semisextile
+⚻,quincunx
+⚼,sesquiquadrate
+⚽,soccer ball
+⚾,baseball
+⚿,squared key
+⛀,white draughts man
+⛁,white draughts king
+⛂,black draughts man
+⛃,black draughts king
+⛄,snowman without snow
+⛅,sun behind cloud
+⛆,rain
+⛇,black snowman
+⛈,thunder cloud and rain
+⛉,turned white shogi piece
+⛊,turned black shogi piece
+⛋,white diamond in square
+⛌,crossing lanes
+⛍,disabled car
+⛎,ophiuchus
+⛏,pick
+⛐,car sliding
+⛑,helmet with white cross
+⛒,circled crossing lanes
+⛓,chains
+⛔,no entry
+⛕,alternate one-way left way traffic
+⛖,black two-way left way traffic
+⛗,white two-way left way traffic
+⛘,black left lane merge
+⛙,white left lane merge
+⛚,drive slow sign
+⛛,heavy white down-pointing triangle
+⛜,left closed entry
+⛝,squared saltire
+⛞,falling diagonal in white circle in black square
+⛟,black truck
+⛠,restricted left entry-1
+⛡,restricted left entry-2
+⛢,astronomical symbol for uranus
+⛣,heavy circle with stroke and two dots above
+⛤,pentagram
+⛥,right-handed interlaced pentagram
+⛦,left-handed interlaced pentagram
+⛧,inverted pentagram
+⛨,black cross on shield
+⛩,shinto shrine
+⛪,church
+⛫,castle
+⛬,historic site
+⛭,gear without hub
+⛮,gear with handles
+⛯,map symbol for lighthouse
+⛰,mountain
+⛱,umbrella on ground
+⛲,fountain
+⛳,flag in hole
+⛴,ferry
+⛵,sailboat
+⛶,square four corners
+⛷,skier
+⛸,ice skate
+⛹,person with ball
+⛺,tent
+⛻,japanese bank symbol
+⛼,headstone graveyard symbol
+⛽,fuel pump
+⛾,cup on black square
+⛿,white flag with horizontal middle black stripe
 Ͱ,greek capital letter heta
 ͱ,greek small letter heta
 Ͳ,greek capital letter archaic sampi

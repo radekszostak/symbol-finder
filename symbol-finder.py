@@ -23,7 +23,7 @@ with open('symbols.csv', 'r', encoding="utf-8") as f:
 layout = [[sg.Input(key='-INPUT-', size=(600, 200))], [sg.Table(values=data, size=(600, 200), headings=["Symbol","Description"],  key='-TABLE-', justification='left', auto_size_columns=False, col_widths=[15, 55])]]
 
 window = sg.Window('Symbol search', layout, size=(600, 200), no_titlebar=True, grab_anywhere=True, keep_on_top=True, finalize=True)
-
+window.Hide()
 tray = psgtray.SystemTray(["",["Open", "Exit"]], single_click_events=False, window=window, tooltip="Symbol search", icon="icon.ico")
 window['-TABLE-'].Update(select_rows=[0])
 window["-INPUT-"].bind("<KeyRelease>", "KEY-RELEASE-")
